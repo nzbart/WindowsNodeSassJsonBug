@@ -1,0 +1,6 @@
+{
+  "name": "NodeSassJsonBug",
+  "devDependencies": {
+    "node-sass": "^0.8.3"
+  }
+}
