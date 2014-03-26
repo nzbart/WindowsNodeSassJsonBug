@@ -5,7 +5,7 @@ console.log('Test');
 var opts = {
     errLogToConsole: true,
     sourceComments: 'map',
-    file: '.\\Main.scss',
+    file: '../App/Main.scss',
     success: function(css, map) {
         console.log(map);
         JSON.parse(map);
